@@ -1,11 +1,11 @@
-# Luckfox Lume Documentation
+# Luckfox Lyra Documentation
 
-This repository contains the documentation, hardware resources, tools, and example code for Luckfox Lume
+This repository contains the documentation, hardware resources, tools, and example code for Luckfox Lyra
 
 ## Directory Structure
 
 ```text
-Luckfox-Lume-docs/
+Luckfox-Lyra-docs/
 ├── Code/
 ├── Docs/
 │   ├── datasheets/
@@ -24,7 +24,7 @@ Luckfox-Lume-docs/
 
 | Directory | Description |
 | --- | --- |
-| `Code/` | Example code, demo projects, scripts, and source files related to Luckfox Lume development. |
+| `Code/` | Example code, demo projects, scripts, and source files related to Luckfox Lyra development. |
 | `Docs/datasheets/` | Chip datasheets, module specifications, interface documents, and other reference PDFs. |
 | `Docs/en/` | English user manuals, tutorials, quick-start guides, and development notes. |
 | `Docs/zh/` | Chinese user manuals, tutorials, quick-start guides, and development notes. |
